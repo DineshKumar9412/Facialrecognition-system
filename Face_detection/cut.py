@@ -1,4 +1,5 @@
 XML LINK = Face-Detection-in-Python-using-OpenCV/data/haarcascades at master · parulnith/Face-Detection-in-Python-using-OpenCV 
+https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV/tree/master/data/haarcascades
 
 Face Detection using opencv with image
 
